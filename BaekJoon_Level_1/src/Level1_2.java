@@ -8,6 +8,7 @@ public class Level1_2 {
 		int A = sc.nextInt();
 		int B = sc.nextInt();
 		
+		sc.close();
 		System.out.print(A + B);
 	}
 }

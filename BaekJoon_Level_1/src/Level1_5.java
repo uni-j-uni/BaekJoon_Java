@@ -8,6 +8,7 @@ public class Level1_5 {
 		double A = sc.nextInt();
 		double B = sc.nextInt();
 		
+		sc.close();
 		System.out.print(A / B);
 	}
 }
