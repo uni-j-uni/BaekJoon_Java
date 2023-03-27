@@ -6,13 +6,13 @@ public class Level1_6 {
 		Scanner sc = new Scanner(System.in);
 		
 		int A = sc.nextInt();
-		int B = sc.nextInt();
-		
+		int B = sc.nextInt();		
 		sc.close();
+		
 		System.out.println(A + B);
 		System.out.println(A - B);
 		System.out.println(A * B);
 		System.out.println(A / B);
-		System.out.println(A % B);
+		System.out.print(A % B);
 	}
 }

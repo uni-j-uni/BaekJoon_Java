@@ -5,8 +5,7 @@ public class Level1_7 {
 	{
 		Scanner sc = new Scanner(System.in);
 		
-		String ID = sc.next();
-		
+		String ID = sc.next();		
 		sc.close();
 		
 		System.out.print(ID + "??!");

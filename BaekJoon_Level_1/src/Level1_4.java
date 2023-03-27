@@ -6,9 +6,9 @@ public class Level1_4 {
 		Scanner sc = new Scanner(System.in);
 		
 		int A = sc.nextInt();
-		int B = sc.nextInt();
-		
+		int B = sc.nextInt();		
 		sc.close();
+		
 		System.out.print(A * B);
 	}
 }
