@@ -1,3 +1,4 @@
+// A x B
 import java.util.Scanner;
 
 public class Level1_4 {
